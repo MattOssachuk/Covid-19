@@ -6,7 +6,11 @@ The world has been hit by a devastating pandemic and it would be convenient to s
 
 My task was to collect, clean and present this data in a single dashboard so that users can easily browse the data and get a picture of the pandemic quickly at a single glance. 
 
-For this analysis I'll be using a data set from ourworldindata.org. This is the most up to date information on the effects on the Covid-19 global pandemic. 
+For this analysis I'll be using a data set from ourworldindata.org. 
+You can find this data here: [Our World in Data Covid-19 Data](https://ourworldindata.org/covid-deaths).
+
+
+This is the most up to date information on the effects on the Covid-19 global pandemic. 
 
 
 
