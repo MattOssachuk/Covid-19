@@ -1,3 +1,5 @@
+![COVID-19](https://headonforestvets.com/files/2020/03/sickemojivirus.jpg)
+
 ## Covid-19 Dashboard Microsoft SQL Server Querying Project
 
 The world has been hit by a devastating pandemic and it would be convenient to see all results of the pandemic so far in one place. This was the purpose of this project. 
