@@ -1,4 +1,4 @@
-![COVID-19](https://headonforestvets.com/files/2020/03/sickemojivirus.jpg)
+![COVID-19](https://images.vexels.com/media/users/3/193297/isolated/lists/4752adfc1ac1732ee4ebb62297016c15-covid-19-cartoon-icon.png)
 
 ## Covid-19 Dashboard Microsoft SQL Server Querying Project
 
